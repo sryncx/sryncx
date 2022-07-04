@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sryncx
 - 👀 I’m interested in AHK,P$,BATCH,VBA,SQL
-- 🌱 I’m currently learning SQL,JAVA,PYTON
+- 🌱 I’m currently learning PYTON
 
 <!---
 sryncx/sryncx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
