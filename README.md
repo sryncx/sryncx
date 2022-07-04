@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sryncx
-- 👀 I’m interested in AHK,P$,BATCH,VBA,SQL
+- 👀 I learned AHK,P$,BATCH,VBA,SQL
 - 🌱 I’m currently learning PYTON
 
 <!---
